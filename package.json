@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-course",
+  "name": "nuxt-project",
   "version": "1.0.0",
-  "description": "Nuxt.js course for Udemy",
-  "author": "Maximilian Schwarzmüller",
+  "description": "Nuxt.js study prject",
+  "author": "Alex Rossi",
   "private": true,
   "scripts": {
     "dev": "nuxt",
